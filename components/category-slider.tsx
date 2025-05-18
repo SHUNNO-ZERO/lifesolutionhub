@@ -72,7 +72,7 @@ export default function CategorySlider({ categories }: { categories: Category[] 
             >
               <div className="relative h-48 w-48 sm:h-56 sm:w-56 overflow-hidden rounded-xl shadow-md">
                 <Image
-                  src={category.image || "/placeholder.svg"}
+                  src= "https://images.unsplash.com/photo-1482049016688-2d3e1b311543?q=80&w=1420&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
                   alt={category.name}
                   fill
                   className="object-cover transition-transform duration-700 group-hover:scale-110"

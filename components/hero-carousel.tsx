@@ -8,7 +8,7 @@ import { useState, useEffect } from "react"
 const slides = [
   {
     id: 1,
-    image: "/placeholder.svg?height=600&width=1200",
+    image: "https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=1200&q=80",
     title: "Healthy Breakfast Options",
     description: "Start your day right with our nutritious breakfast selection",
     cta: "Shop Breakfast",
@@ -16,7 +16,7 @@ const slides = [
   },
   {
     id: 2,
-    image: "/placeholder.svg?height=600&width=1200",
+    image: "https://images.unsplash.com/photo-1511690743698-d9d85f2fbf38?auto=format&fit=crop&w=1200&q=80",
     title: "Fresh Lunch Ideas",
     description: "Energize your afternoon with our fresh and delicious lunch options",
     cta: "Shop Lunch",
@@ -24,7 +24,7 @@ const slides = [
   },
   {
     id: 3,
-    image: "/placeholder.svg?height=600&width=1200",
+    image: "https://images.unsplash.com/photo-1502741338009-cac2772e18bc?auto=format&fit=crop&w=1200&q=80",
     title: "Wholesome Dinners",
     description: "End your day with our wholesome and satisfying dinner meals",
     cta: "Shop Dinner",
